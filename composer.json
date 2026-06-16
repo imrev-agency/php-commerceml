@@ -1,7 +1,7 @@
 {
-  "name": "alex8bits/commerceml",
+  "name": "imrev-agency/commerceml",
   "type": "library",
-  "homepage": "https://github.com/alex8bits/php-commerceml",
+  "homepage": "https://github.com/imrev-agency/php-commerceml",
   "description": "Library for parsing CommerceML files",
   "keywords": [
     "commerceml",
@@ -37,11 +37,5 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5 || ^10.0"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/alex8bits/php-commerceml.git"
-    }
-  ]
+  }
 }
