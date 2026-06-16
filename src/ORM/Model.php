@@ -30,7 +30,7 @@ abstract class Model extends ArrayObject
      * @param CommerceML $owner
      * @param \SimpleXMLElement|null $xml
      */
-    public function __construct(CommerceML $owner, SimpleXMLElement $xml = null)
+    public function __construct(CommerceML $owner, ?SimpleXMLElement $xml = null)
     {
         $this->owner = $owner;
 
